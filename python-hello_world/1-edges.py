@@ -1,4 +1,4 @@
-name = word
-word_first_3 = name[:3]
-word_last_2 = name[2:]
-middle_word = name[1:3]
+word = "word"
+word_first_3 = word[:3]
+word_last_2 = word[2:]
+middle_word = word[1:3]
